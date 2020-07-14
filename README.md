@@ -1,3 +1,4 @@
+![BiscuiTech Logo](https://github.com/BiscuiTech/BiscuiTech/blob/master/BiscuiTech%20Logo%20(2019)%20(Small).png)
 # Wasup cool kids! 😎
 
 My name is Jean-Cédric Huet, but I go by biscuitech! I live in Montreal, Canada and currently working on a web based video-conferencing app as well as my own website and blog at www.biscui.tech.
