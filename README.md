@@ -9,6 +9,7 @@ ______
 
 📫 How to reach me: jhuet@biscui.tech
 
+[![BiscuiTech's github stats](https://github-readme-stats.vercel.app/api?username=biscuitech)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#90](https://github.com//BiscuiTech/BiscuiT/pull/90) in [BiscuiTech/BiscuiT](https://github.com//BiscuiTech/BiscuiT)
@@ -17,5 +18,3 @@ ______
 4. 🎉 Merged PR [#18](https://github.com//BiscuiTech/code-notes/pull/18) in [BiscuiTech/code-notes](https://github.com//BiscuiTech/code-notes)
 5. ❗️ Closed issue [#89](https://github.com//BiscuiTech/BiscuiT/issues/89) in [BiscuiTech/BiscuiT](https://github.com//BiscuiTech/BiscuiT)
 <!--END_SECTION:activity-->
-
-[![BiscuiTech's github stats](https://github-readme-stats.vercel.app/api?username=biscuitech)](https://github.com/anuraghazra/github-readme-stats)
