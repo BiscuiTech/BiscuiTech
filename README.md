@@ -3,7 +3,7 @@
 
 My name is Jean-Cédric Huet, but I go by biscuitech! I live in Montreal, Canada and currently working on a web based video-conferencing app as well as my own website and blog at www.biscui.tech.
 
-I'm a self-taught web devloper speciliazed on react, nextjs & graphql. Pass by [my blog](www.biscui.tech/blog) if you're interestesd!
+I'm a self-taught web devloper specialized on react, nextjs & graphql. Pass by [my blog](www.biscui.tech/blog) if you're interestesd!
 ______
 😄 Pronouns: he/him
 
