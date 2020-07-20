@@ -17,3 +17,5 @@ ______
 4. 🎉 Merged PR [#18](https://github.com//BiscuiTech/code-notes/pull/18) in [BiscuiTech/code-notes](https://github.com//BiscuiTech/code-notes)
 5. ❗️ Closed issue [#89](https://github.com//BiscuiTech/BiscuiT/issues/89) in [BiscuiTech/BiscuiT](https://github.com//BiscuiTech/BiscuiT)
 <!--END_SECTION:activity-->
+
+[![BiscuiTech's github stats](https://github-readme-stats.vercel.app/api?username=biscuitech)](https://github.com/anuraghazra/github-readme-stats)
