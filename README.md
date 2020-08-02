@@ -12,9 +12,9 @@ ______
 [![BiscuiTech's github stats](https://github-readme-stats.vercel.app/api?username=biscuitech)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#97](https://github.com//BiscuiTech/BiscuiT/pull/97) in [BiscuiTech/BiscuiT](https://github.com//BiscuiTech/BiscuiT)
-2. 💪 Opened PR [#97](https://github.com//BiscuiTech/BiscuiT/pull/97) in [BiscuiTech/BiscuiT](https://github.com//BiscuiTech/BiscuiT)
-3. 🎉 Merged PR [#92](https://github.com//BiscuiTech/BiscuiT/pull/92) in [BiscuiTech/BiscuiT](https://github.com//BiscuiTech/BiscuiT)
-4. 🎉 Merged PR [#91](https://github.com//BiscuiTech/BiscuiT/pull/91) in [BiscuiTech/BiscuiT](https://github.com//BiscuiTech/BiscuiT)
-5. 🎉 Merged PR [#27](https://github.com//BiscuiTech/code-notes/pull/27) in [BiscuiTech/code-notes](https://github.com//BiscuiTech/code-notes)
+1. 🎉 Merged PR [#28](https://github.com//BiscuiTech/code-notes/pull/28) in [BiscuiTech/code-notes](https://github.com//BiscuiTech/code-notes)
+2. 🎉 Merged PR [#97](https://github.com//BiscuiTech/BiscuiT/pull/97) in [BiscuiTech/BiscuiT](https://github.com//BiscuiTech/BiscuiT)
+3. 💪 Opened PR [#97](https://github.com//BiscuiTech/BiscuiT/pull/97) in [BiscuiTech/BiscuiT](https://github.com//BiscuiTech/BiscuiT)
+4. 🎉 Merged PR [#92](https://github.com//BiscuiTech/BiscuiT/pull/92) in [BiscuiTech/BiscuiT](https://github.com//BiscuiTech/BiscuiT)
+5. 🎉 Merged PR [#91](https://github.com//BiscuiTech/BiscuiT/pull/91) in [BiscuiTech/BiscuiT](https://github.com//BiscuiTech/BiscuiT)
 <!--END_SECTION:activity-->
