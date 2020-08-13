@@ -12,9 +12,9 @@ ______
 [![BiscuiTech's github stats](https://github-readme-stats.vercel.app/api?username=biscuitech)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#904](https://github.com//graphql-nexus/nexus/issues/904) in [graphql-nexus/nexus](https://github.com//graphql-nexus/nexus)
-2. ❗️ Closed issue [#1317](https://github.com//graphql-nexus/nexus/issues/1317) in [graphql-nexus/nexus](https://github.com//graphql-nexus/nexus)
-3. 🗣 Commented on [#1317](https://github.com//graphql-nexus/nexus/issues/1317) in [graphql-nexus/nexus](https://github.com//graphql-nexus/nexus)
+1. 🎉 Merged PR [#32](https://github.com//BiscuiTech/code-notes/pull/32) in [BiscuiTech/code-notes](https://github.com//BiscuiTech/code-notes)
+2. 🗣 Commented on [#904](https://github.com//graphql-nexus/nexus/issues/904) in [graphql-nexus/nexus](https://github.com//graphql-nexus/nexus)
+3. ❗️ Closed issue [#1317](https://github.com//graphql-nexus/nexus/issues/1317) in [graphql-nexus/nexus](https://github.com//graphql-nexus/nexus)
 4. 🗣 Commented on [#1317](https://github.com//graphql-nexus/nexus/issues/1317) in [graphql-nexus/nexus](https://github.com//graphql-nexus/nexus)
-5. ❗️ Opened issue [#1317](https://github.com//graphql-nexus/nexus/issues/1317) in [graphql-nexus/nexus](https://github.com//graphql-nexus/nexus)
+5. 🗣 Commented on [#1317](https://github.com//graphql-nexus/nexus/issues/1317) in [graphql-nexus/nexus](https://github.com//graphql-nexus/nexus)
 <!--END_SECTION:activity-->
