@@ -12,9 +12,9 @@ ______
 [![BiscuiTech's github stats](https://github-readme-stats.vercel.app/api?username=biscuitech)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com//BiscuiTech/sapper-app/pull/33) in [BiscuiTech/sapper-app](https://github.com//BiscuiTech/sapper-app)
-2. 🎉 Merged PR [#32](https://github.com//BiscuiTech/sapper-app/pull/32) in [BiscuiTech/sapper-app](https://github.com//BiscuiTech/sapper-app)
-3. 🎉 Merged PR [#104](https://github.com//BiscuiTech/BiscuiT/pull/104) in [BiscuiTech/BiscuiT](https://github.com//BiscuiTech/BiscuiT)
-4. 🎉 Merged PR [#105](https://github.com//BiscuiTech/BiscuiT/pull/105) in [BiscuiTech/BiscuiT](https://github.com//BiscuiTech/BiscuiT)
-5. 🎉 Merged PR [#37](https://github.com//BiscuiTech/code-notes/pull/37) in [BiscuiTech/code-notes](https://github.com//BiscuiTech/code-notes)
+1. 🎉 Merged PR [#43](https://github.com//BiscuiTech/sapper-app/pull/43) in [BiscuiTech/sapper-app](https://github.com//BiscuiTech/sapper-app)
+2. 🎉 Merged PR [#38](https://github.com//BiscuiTech/sapper-app/pull/38) in [BiscuiTech/sapper-app](https://github.com//BiscuiTech/sapper-app)
+3. 🎉 Merged PR [#41](https://github.com//BiscuiTech/sapper-app/pull/41) in [BiscuiTech/sapper-app](https://github.com//BiscuiTech/sapper-app)
+4. 🎉 Merged PR [#42](https://github.com//BiscuiTech/sapper-app/pull/42) in [BiscuiTech/sapper-app](https://github.com//BiscuiTech/sapper-app)
+5. 🎉 Merged PR [#40](https://github.com//BiscuiTech/sapper-app/pull/40) in [BiscuiTech/sapper-app](https://github.com//BiscuiTech/sapper-app)
 <!--END_SECTION:activity-->
