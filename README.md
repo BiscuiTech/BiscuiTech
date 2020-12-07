@@ -12,9 +12,9 @@ ______
 [![BiscuiTech's github stats](https://github-readme-stats.vercel.app/api?username=biscuitech)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#949](https://github.com/prisma-labs/graphql-framework-experiment/issues/949) in [prisma-labs/graphql-framework-experiment](https://github.com/prisma-labs/graphql-framework-experiment)
-2. 💪 Opened PR [#51](https://github.com/BiscuiTech/code-notes/pull/51) in [BiscuiTech/code-notes](https://github.com/BiscuiTech/code-notes)
-3. 🎉 Merged PR [#52](https://github.com/BiscuiTech/sapper-app/pull/52) in [BiscuiTech/sapper-app](https://github.com/BiscuiTech/sapper-app)
-4. 🎉 Merged PR [#54](https://github.com/BiscuiTech/sapper-app/pull/54) in [BiscuiTech/sapper-app](https://github.com/BiscuiTech/sapper-app)
-5. 🎉 Merged PR [#58](https://github.com/BiscuiTech/sapper-app/pull/58) in [BiscuiTech/sapper-app](https://github.com/BiscuiTech/sapper-app)
+1. ❌ Closed PR [#76](https://github.com/BiscuiTech/code-notes/pull/76) in [BiscuiTech/code-notes](https://github.com/BiscuiTech/code-notes)
+2. 🗣 Commented on [#76](https://github.com/BiscuiTech/code-notes/issues/76) in [BiscuiTech/code-notes](https://github.com/BiscuiTech/code-notes)
+3. 🗣 Commented on [#76](https://github.com/BiscuiTech/code-notes/issues/76) in [BiscuiTech/code-notes](https://github.com/BiscuiTech/code-notes)
+4. 🎉 Merged PR [#60](https://github.com/BiscuiTech/code-notes/pull/60) in [BiscuiTech/code-notes](https://github.com/BiscuiTech/code-notes)
+5. 🎉 Merged PR [#47](https://github.com/BiscuiTech/code-notes/pull/47) in [BiscuiTech/code-notes](https://github.com/BiscuiTech/code-notes)
 <!--END_SECTION:activity-->
