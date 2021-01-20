@@ -12,9 +12,9 @@ ______
 [![BiscuiTech's github stats](https://github-readme-stats.vercel.app/api?username=biscuitech)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20455](https://github.com/facebook/react/issues/20455) in [facebook/react](https://github.com/facebook/react)
-2. ❌ Closed PR [#76](https://github.com/BiscuiTech/code-notes/pull/76) in [BiscuiTech/code-notes](https://github.com/BiscuiTech/code-notes)
-3. 🗣 Commented on [#76](https://github.com/BiscuiTech/code-notes/issues/76) in [BiscuiTech/code-notes](https://github.com/BiscuiTech/code-notes)
-4. 🗣 Commented on [#76](https://github.com/BiscuiTech/code-notes/issues/76) in [BiscuiTech/code-notes](https://github.com/BiscuiTech/code-notes)
-5. 🎉 Merged PR [#60](https://github.com/BiscuiTech/code-notes/pull/60) in [BiscuiTech/code-notes](https://github.com/BiscuiTech/code-notes)
+1. 🎉 Merged PR [#94](https://github.com/BiscuiTech/code-notes/pull/94) in [BiscuiTech/code-notes](https://github.com/BiscuiTech/code-notes)
+2. 🗣 Commented on [#93](https://github.com/BiscuiTech/code-notes/issues/93) in [BiscuiTech/code-notes](https://github.com/BiscuiTech/code-notes)
+3. ❌ Closed PR [#79](https://github.com/BiscuiTech/code-notes/pull/79) in [BiscuiTech/code-notes](https://github.com/BiscuiTech/code-notes)
+4. 🗣 Commented on [#93](https://github.com/BiscuiTech/code-notes/issues/93) in [BiscuiTech/code-notes](https://github.com/BiscuiTech/code-notes)
+5. 🎉 Merged PR [#92](https://github.com/BiscuiTech/code-notes/pull/92) in [BiscuiTech/code-notes](https://github.com/BiscuiTech/code-notes)
 <!--END_SECTION:activity-->
