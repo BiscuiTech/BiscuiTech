@@ -12,9 +12,9 @@ ______
 [![BiscuiTech's github stats](https://github-readme-stats.vercel.app/api?username=biscuitech)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#94](https://github.com/BiscuiTech/code-notes/pull/94) in [BiscuiTech/code-notes](https://github.com/BiscuiTech/code-notes)
-2. 🗣 Commented on [#93](https://github.com/BiscuiTech/code-notes/issues/93) in [BiscuiTech/code-notes](https://github.com/BiscuiTech/code-notes)
-3. ❌ Closed PR [#79](https://github.com/BiscuiTech/code-notes/pull/79) in [BiscuiTech/code-notes](https://github.com/BiscuiTech/code-notes)
-4. 🗣 Commented on [#93](https://github.com/BiscuiTech/code-notes/issues/93) in [BiscuiTech/code-notes](https://github.com/BiscuiTech/code-notes)
-5. 🎉 Merged PR [#92](https://github.com/BiscuiTech/code-notes/pull/92) in [BiscuiTech/code-notes](https://github.com/BiscuiTech/code-notes)
+1. 🗣 Commented on [#4](https://github.com/BiscuiTech/i18n-typescript-app/issues/4) in [BiscuiTech/i18n-typescript-app](https://github.com/BiscuiTech/i18n-typescript-app)
+2. 🎉 Merged PR [#94](https://github.com/BiscuiTech/code-notes/pull/94) in [BiscuiTech/code-notes](https://github.com/BiscuiTech/code-notes)
+3. 🗣 Commented on [#93](https://github.com/BiscuiTech/code-notes/issues/93) in [BiscuiTech/code-notes](https://github.com/BiscuiTech/code-notes)
+4. ❌ Closed PR [#79](https://github.com/BiscuiTech/code-notes/pull/79) in [BiscuiTech/code-notes](https://github.com/BiscuiTech/code-notes)
+5. 🗣 Commented on [#93](https://github.com/BiscuiTech/code-notes/issues/93) in [BiscuiTech/code-notes](https://github.com/BiscuiTech/code-notes)
 <!--END_SECTION:activity-->
