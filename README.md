@@ -13,8 +13,8 @@ ______
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#4](https://github.com/BiscuiTech/i18n-typescript-app/issues/4) in [BiscuiTech/i18n-typescript-app](https://github.com/BiscuiTech/i18n-typescript-app)
-2. 🎉 Merged PR [#94](https://github.com/BiscuiTech/code-notes/pull/94) in [BiscuiTech/code-notes](https://github.com/BiscuiTech/code-notes)
-3. 🗣 Commented on [#93](https://github.com/BiscuiTech/code-notes/issues/93) in [BiscuiTech/code-notes](https://github.com/BiscuiTech/code-notes)
-4. ❌ Closed PR [#79](https://github.com/BiscuiTech/code-notes/pull/79) in [BiscuiTech/code-notes](https://github.com/BiscuiTech/code-notes)
-5. 🗣 Commented on [#93](https://github.com/BiscuiTech/code-notes/issues/93) in [BiscuiTech/code-notes](https://github.com/BiscuiTech/code-notes)
+2. ❌ Closed PR [#2](https://github.com/BiscuiTech/i18n-typescript-app/pull/2) in [BiscuiTech/i18n-typescript-app](https://github.com/BiscuiTech/i18n-typescript-app)
+3. 🗣 Commented on [#2](https://github.com/BiscuiTech/i18n-typescript-app/issues/2) in [BiscuiTech/i18n-typescript-app](https://github.com/BiscuiTech/i18n-typescript-app)
+4. 🗣 Commented on [#4](https://github.com/BiscuiTech/i18n-typescript-app/issues/4) in [BiscuiTech/i18n-typescript-app](https://github.com/BiscuiTech/i18n-typescript-app)
+5. 🎉 Merged PR [#94](https://github.com/BiscuiTech/code-notes/pull/94) in [BiscuiTech/code-notes](https://github.com/BiscuiTech/code-notes)
 <!--END_SECTION:activity-->
