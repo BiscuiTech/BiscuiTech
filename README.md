@@ -13,8 +13,8 @@ ______
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#4](https://github.com/BiscuiTech/i18n-typescript-app/issues/4) in [BiscuiTech/i18n-typescript-app](https://github.com/BiscuiTech/i18n-typescript-app)
-2. 🗣 Commented on [#1039](https://github.com/graphql-nexus/nexus-plugin-prisma/issues/1039) in [graphql-nexus/nexus-plugin-prisma](https://github.com/graphql-nexus/nexus-plugin-prisma)
-3. 🗣 Commented on [#4](https://github.com/BiscuiTech/i18n-typescript-app/issues/4) in [BiscuiTech/i18n-typescript-app](https://github.com/BiscuiTech/i18n-typescript-app)
+2. 🗣 Commented on [#4](https://github.com/BiscuiTech/i18n-typescript-app/issues/4) in [BiscuiTech/i18n-typescript-app](https://github.com/BiscuiTech/i18n-typescript-app)
+3. 🗣 Commented on [#1039](https://github.com/graphql-nexus/nexus-plugin-prisma/issues/1039) in [graphql-nexus/nexus-plugin-prisma](https://github.com/graphql-nexus/nexus-plugin-prisma)
 4. 🗣 Commented on [#4](https://github.com/BiscuiTech/i18n-typescript-app/issues/4) in [BiscuiTech/i18n-typescript-app](https://github.com/BiscuiTech/i18n-typescript-app)
-5. ❌ Closed PR [#2](https://github.com/BiscuiTech/i18n-typescript-app/pull/2) in [BiscuiTech/i18n-typescript-app](https://github.com/BiscuiTech/i18n-typescript-app)
+5. 🗣 Commented on [#4](https://github.com/BiscuiTech/i18n-typescript-app/issues/4) in [BiscuiTech/i18n-typescript-app](https://github.com/BiscuiTech/i18n-typescript-app)
 <!--END_SECTION:activity-->
