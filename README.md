@@ -12,9 +12,9 @@ ______
 [![BiscuiTech's github stats](https://github-readme-stats.vercel.app/api?username=biscuitech)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/BiscuiTech/i18n-typescript-app/issues/4) in [BiscuiTech/i18n-typescript-app](https://github.com/BiscuiTech/i18n-typescript-app)
-2. 🎉 Merged PR [#4](https://github.com/BiscuiTech/i18n-typescript-app/pull/4) in [BiscuiTech/i18n-typescript-app](https://github.com/BiscuiTech/i18n-typescript-app)
-3. 🗣 Commented on [#4](https://github.com/BiscuiTech/i18n-typescript-app/issues/4) in [BiscuiTech/i18n-typescript-app](https://github.com/BiscuiTech/i18n-typescript-app)
+1. ❗️ Opened issue [#47](https://github.com/Luxcium/questrade-ts/issues/47) in [Luxcium/questrade-ts](https://github.com/Luxcium/questrade-ts)
+2. 🗣 Commented on [#4](https://github.com/BiscuiTech/i18n-typescript-app/issues/4) in [BiscuiTech/i18n-typescript-app](https://github.com/BiscuiTech/i18n-typescript-app)
+3. 🎉 Merged PR [#4](https://github.com/BiscuiTech/i18n-typescript-app/pull/4) in [BiscuiTech/i18n-typescript-app](https://github.com/BiscuiTech/i18n-typescript-app)
 4. 🗣 Commented on [#4](https://github.com/BiscuiTech/i18n-typescript-app/issues/4) in [BiscuiTech/i18n-typescript-app](https://github.com/BiscuiTech/i18n-typescript-app)
-5. 🗣 Commented on [#1039](https://github.com/graphql-nexus/nexus-plugin-prisma/issues/1039) in [graphql-nexus/nexus-plugin-prisma](https://github.com/graphql-nexus/nexus-plugin-prisma)
+5. 🗣 Commented on [#4](https://github.com/BiscuiTech/i18n-typescript-app/issues/4) in [BiscuiTech/i18n-typescript-app](https://github.com/BiscuiTech/i18n-typescript-app)
 <!--END_SECTION:activity-->
