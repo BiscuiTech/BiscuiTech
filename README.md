@@ -12,9 +12,9 @@ ______
 [![BiscuiTech's github stats](https://github-readme-stats.vercel.app/api?username=biscuitech)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#778](https://github.com/sveltejs/kit/issues/778) in [sveltejs/kit](https://github.com/sveltejs/kit)
-2. 💪 Opened PR [#597](https://github.com/wesbos/Syntax/pull/597) in [wesbos/Syntax](https://github.com/wesbos/Syntax)
-3. 🗣 Commented on [#47](https://github.com/Luxcium/questrade-ts/issues/47) in [Luxcium/questrade-ts](https://github.com/Luxcium/questrade-ts)
-4. ❗️ Opened issue [#47](https://github.com/Luxcium/questrade-ts/issues/47) in [Luxcium/questrade-ts](https://github.com/Luxcium/questrade-ts)
-5. 🗣 Commented on [#4](https://github.com/BiscuiTech/i18n-typescript-app/issues/4) in [BiscuiTech/i18n-typescript-app](https://github.com/BiscuiTech/i18n-typescript-app)
+1. 💪 Opened PR [#782](https://github.com/sveltejs/kit/pull/782) in [sveltejs/kit](https://github.com/sveltejs/kit)
+2. ❗️ Closed issue [#778](https://github.com/sveltejs/kit/issues/778) in [sveltejs/kit](https://github.com/sveltejs/kit)
+3. 🗣 Commented on [#778](https://github.com/sveltejs/kit/issues/778) in [sveltejs/kit](https://github.com/sveltejs/kit)
+4. ❗️ Opened issue [#778](https://github.com/sveltejs/kit/issues/778) in [sveltejs/kit](https://github.com/sveltejs/kit)
+5. 💪 Opened PR [#597](https://github.com/wesbos/Syntax/pull/597) in [wesbos/Syntax](https://github.com/wesbos/Syntax)
 <!--END_SECTION:activity-->
