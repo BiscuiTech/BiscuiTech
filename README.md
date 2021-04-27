@@ -12,9 +12,9 @@ ______
 [![BiscuiTech's github stats](https://github-readme-stats.vercel.app/api?username=biscuitech)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#782](https://github.com/sveltejs/kit/pull/782) in [sveltejs/kit](https://github.com/sveltejs/kit)
-2. ❗️ Closed issue [#778](https://github.com/sveltejs/kit/issues/778) in [sveltejs/kit](https://github.com/sveltejs/kit)
-3. 🗣 Commented on [#778](https://github.com/sveltejs/kit/issues/778) in [sveltejs/kit](https://github.com/sveltejs/kit)
-4. ❗️ Opened issue [#778](https://github.com/sveltejs/kit/issues/778) in [sveltejs/kit](https://github.com/sveltejs/kit)
-5. 💪 Opened PR [#597](https://github.com/wesbos/Syntax/pull/597) in [wesbos/Syntax](https://github.com/wesbos/Syntax)
+1. ❌ Closed PR [#27](https://github.com/BiscuiTech/finance-dashboard/pull/27) in [BiscuiTech/finance-dashboard](https://github.com/BiscuiTech/finance-dashboard)
+2. ❌ Closed PR [#28](https://github.com/BiscuiTech/finance-dashboard/pull/28) in [BiscuiTech/finance-dashboard](https://github.com/BiscuiTech/finance-dashboard)
+3. ❌ Closed PR [#29](https://github.com/BiscuiTech/finance-dashboard/pull/29) in [BiscuiTech/finance-dashboard](https://github.com/BiscuiTech/finance-dashboard)
+4. 💪 Opened PR [#782](https://github.com/sveltejs/kit/pull/782) in [sveltejs/kit](https://github.com/sveltejs/kit)
+5. ❗️ Closed issue [#778](https://github.com/sveltejs/kit/issues/778) in [sveltejs/kit](https://github.com/sveltejs/kit)
 <!--END_SECTION:activity-->
