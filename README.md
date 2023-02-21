@@ -8,13 +8,3 @@ ______
 😄 Pronouns: he/him
 
 📫 How to reach me: jhuet@biscui.tech
-
-[![BiscuiTech's github stats](https://github-readme-stats.vercel.app/api?username=biscuitech)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#597](https://github.com/wesbos/Syntax/issues/597) in [wesbos/Syntax](https://github.com/wesbos/Syntax)
-2. ❌ Closed PR [#27](https://github.com/BiscuiTech/finance-dashboard/pull/27) in [BiscuiTech/finance-dashboard](https://github.com/BiscuiTech/finance-dashboard)
-3. ❌ Closed PR [#28](https://github.com/BiscuiTech/finance-dashboard/pull/28) in [BiscuiTech/finance-dashboard](https://github.com/BiscuiTech/finance-dashboard)
-4. ❌ Closed PR [#29](https://github.com/BiscuiTech/finance-dashboard/pull/29) in [BiscuiTech/finance-dashboard](https://github.com/BiscuiTech/finance-dashboard)
-5. 💪 Opened PR [#782](https://github.com/sveltejs/kit/pull/782) in [sveltejs/kit](https://github.com/sveltejs/kit)
-<!--END_SECTION:activity-->
